@@ -5,12 +5,14 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=JavaScript)
 ![VUE](https://img.shields.io/badge/Vue.js-252525?style=for-the-badge&logo=Vue.js)
+![FLUTTER](https://img.shields.io/badge/Flutter-252525?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=Python)
 ![Webpack](https://img.shields.io/badge/Webpack-252525?style=for-the-badge&logo=Webpack)
 ![HTML](https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=CSS3)
 ![FIGMA](https://img.shields.io/badge/Figma-252525?style=for-the-badge&logo=Figma)
 ![Adobe Illustrator](https://img.shields.io/badge/AdobeIllustrator-252525?style=for-the-badge&logo=Adobe)
+
 
 ### Follow Me
 [![VK](https://img.shields.io/badge/Vk-252525?style=for-the-badge&logo=Vk)](https://vk.com/temur000101)
