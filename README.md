@@ -1,7 +1,7 @@
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=JavaScript)
 ![VUE](https://img.shields.io/badge/Vue.js-252525?style=for-the-badge&logo=Vue.js)
-![NUXT.JS](https://img.shields.io/badge/Vue.js-252525?style=for-the-badge&logo=Nuxt.js)
+![NUXT](https://img.shields.io/badge/Nuxt.js-252525?style=for-the-badge&logo=Nuxt.js)
 ![FLUTTER](https://img.shields.io/badge/Flutter-252525?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=Python)
 ![Webpack](https://img.shields.io/badge/Webpack-252525?style=for-the-badge&logo=Webpack)
